@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YouTubeLogin</string>
+    <string name="txtTitulo">TELA DE LOGIN</string>
+    <string name="editSenha">Informe SENHA</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="editLogin">Informe LOGIN</string>
+    <string name="txtTituloPainel">Painel Administrativo</string>
+    <string name="txtTelaUsuario">Área do Usuário</string>
+</resources>
